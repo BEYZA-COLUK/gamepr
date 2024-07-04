@@ -1,0 +1,1 @@
+Projenin Windows ve Android kurulumlarını ayrı ayrı koydum. Projede 4 sahne bulunuyor bunlardan 1 tanesi oyun bitti ekranıyken diğerleri level sahneleri. Her levelde tüm fonksiyonların kullanılıyor olması sağlandı. Kodlar için Scripts adında ayrı bir dosya açtım.
